@@ -16,6 +16,8 @@ Geleneksel "katı" filtreleme sistemlerinin aksine (Örn: "IMDb puanı 7.5'ten k
 Projenin kalbi olan Mamdani Bulanık Mantık mimarisi, dört ana aşamadan oluşan entegre bir akış matrisi ile çalışmaktadır:
 
 > 🖼️ **Görsel: Sistem Operasyonel Akış Şeması**
+> <img width="1861" height="958" alt="image" src="https://github.com/user-attachments/assets/ea351891-7dad-4d3d-acbf-90dd34fbb012" />
+
 > ![Sistem Mimarisi Operasyonel Akış Matrisi]([BURAYA_image_5.png_LINKINI_EKLE])
 
 ### 1. Giriş Parametreleri ve Bulanıklaştırma (Fuzzification)
